@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "archiver": "1.2.x",
-    "clean-webpack-plugin": "0.1.x",
+    "clean-webpack-plugin": "0.1.19",
     "codemirror": "5.21.x",
     "css-loader": "0.14.x",
     "extract-text-webpack-plugin": "0.8.x",
